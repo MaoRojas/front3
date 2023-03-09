@@ -1,0 +1,13 @@
+.titleHome{
+    color: blueviolet;
+}
+
+.description{
+    color: bisque;
+}
+.light{
+    background-color:rgb(48, 139, 218) ;
+}
+.dark{
+    background-color: rgb(169, 9, 9);
+}
